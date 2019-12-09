@@ -13,14 +13,14 @@ The first is an OVERVIEW Entry - this is the Introduction, it explains the purpo
 There is _only one_ overview entry.
 
 *Context*
-The “Freedom Project” for SEP10 is all about _explain what the freedom project is_.
+The “Freedom Project” for SEP10 is all about The “Freedom Project” for SEP10 is all about implementing the ideas we learned during our classwork and combining ideas with our own interests into a blog that would reflect our learning throughout the school year.
 
-The purpose of this blog is to _explain what is it that you are using the blog for_
+The purpose of this blog is to inform the audience in what they will learn, and how it impacts the world socially, globally, and economically.
 
 *Content*
-For my project, I am making a website about _insert your topic_ using Github, HTML, CSS, and(tbd
+For my project, I am making a website about Computer Hardware using Github, HTML, CSS, and(tbd
 
-This blog will document the process of independently studying _insert your topic_ and (tbd) and making the website.
+This blog will document the process of independently studying Computer Hardware and (tbd) and making the website.
 
 ### Daily Entries
 
